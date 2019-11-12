@@ -9,6 +9,6 @@
 6、利用github+jenkins实现自动部署；  
 
 
-所用到的所有软件我都已经放到百度网盘
+所有用到的软件我都已经放到百度网盘
 链接：https://pan.baidu.com/s/1pYMaNUUemhol4lgUBK4l-w 
 提取码：l7jr 
